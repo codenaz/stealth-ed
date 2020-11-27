@@ -1,3 +1,7 @@
 ## Express API solution
 
-Make a get request to `http://localhost:3000/search?q=topic` , where `q` is the the topic you want questions for
+Make a GET request to `https://stealth-ed-task.herokuapp.com/search?q=topic` , where `q` is the the topic you want questions for.
+
+Example request:
+
+https://stealth-ed-task.herokuapp.com/search?q=movement%20of%20substances
